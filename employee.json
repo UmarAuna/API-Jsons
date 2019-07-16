@@ -1,0 +1,47 @@
+{
+"employeeList": [
+{
+"name": "Gret Rodriquez",
+"email": "gretchenrodriquez@trasola.com",
+"phone": "6204732096",
+"image":"https://demonuts.com/Demonuts/SampleImages/roger.jpg"
+},
+{
+"name": "Sharon Harris",
+"email": "sharonharris@trasola.com",
+"phone": "2184582386",
+"image": "https://demonuts.com/Demonuts/SampleImages/nadal.jpg"
+},
+{
+"name": "Serrano Haynes",
+"email": "serranohaynes@trasola.com",
+"phone": "1434162816",
+"image":"https://demonuts.com/Demonuts/SampleImages/djoko.jpg"
+},
+{
+"name": "Wagner Thornton",
+"email": "wagnerthornton@trasola.com",
+"phone": "5494622467",
+"image": "https://demonuts.com/Demonuts/SampleImages/woz.jpg"
+},
+{
+"name": "Mooney Dawson",
+"email": "mooneydawson@trasola.com",
+"phone": "3894433413",
+"image": "https://demonuts.com/Demonuts/SampleImages/shara.jpg"
+},
+{
+"name": "Mooney Dawson",
+"email": "mooneydawson@trasola.com",
+"phone": "3894433413",
+"image": "https://demonuts.com/Demonuts/SampleImages/shara.jpg"
+}
+,
+{
+"name": "Mooney Dawson",
+"email": "mooneydawson@trasola.com",
+"phone": "3894433413",
+"image": "https://demonuts.com/Demonuts/SampleImages/shara.jpg"
+}
+]
+}
